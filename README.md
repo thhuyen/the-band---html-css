@@ -4,6 +4,6 @@
 
 There are some images of the website
 
-![image](https://user-images.githubusercontent.com/97439051/179960410-227c483e-743b-4c48-a5c0-550e25c0d21e.png)
+![image](https://user-images.githubusercontent.com/97439051/179960812-4d2d21db-0d90-4cbe-a3e5-7f6e7aad159f.png)
 
-![image](https://user-images.githubusercontent.com/97439051/179960546-97557f95-7f02-43a9-9816-5a87d1440a72.png)
+![image](https://user-images.githubusercontent.com/97439051/179960410-227c483e-743b-4c48-a5c0-550e25c0d21e.png)
