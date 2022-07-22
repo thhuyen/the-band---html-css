@@ -26,12 +26,12 @@ html {
     color: #fff !important;
 }
 #main {
-    
 }
 
 /* header */
 #header {
     height: 46px;
+    max-width: 100%;
     background-color: black;
     position: fixed;
     top: 0;
@@ -131,6 +131,7 @@ html {
 }
 #content .content-section {
     width: 800px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding: 64px 16px;
@@ -156,6 +157,7 @@ html {
     line-height: 1.4
 }
 #content .member-list {
+    max-width: 100%;
     display: flex; 
     justify-content: center;
     text-align: center;
