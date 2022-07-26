@@ -38,7 +38,6 @@ html {
     left: 0;
     right: 0;
     z-index: 1;
-    overflow: hidden;
 }
 
 /* navigation */
@@ -63,7 +62,7 @@ html {
     
     text-decoration: none;
     line-height: 46px;
-    padding: 0 24px 0 24px;
+    padding: 0 24px;
     display: block;
 }
 
@@ -86,10 +85,17 @@ html {
     min-width: 160px;
 }
 #nav .subnav a {
+    color: #000;
     padding: 0 12px;
     line-height: 38px ;
 }
 
+#mobile-menu-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+}
 #mobile-menu-btn,
 #header .search-btn {
     float: right;
@@ -237,13 +243,14 @@ html {
     margin-left: 0;
 }
 .place-body {
+    width: 100%;
     font-size: 14px;
     text-align: left;
     padding: 0.1px 16px;
     height: 205px;
 }
 .place-img {
-    width: 245px;
+    width: 100%;
 }
 .place-heading {
     margin: 15px 0;
@@ -253,6 +260,7 @@ html {
     margin-top: 15px 0;
 }
 .place-des {
+    width: inherit;
     margin-top: 15px;
     margin-bottom: 27px;
     line-height: 22px;
