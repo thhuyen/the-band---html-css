@@ -262,7 +262,7 @@ html {
 .place-des {
     width: inherit;
     margin-top: 15px;
-    margin-bottom: 27px;
+    margin-bottom: 20px;
     line-height: 22px;
 }
 .place-buy-btn {
@@ -375,10 +375,9 @@ html {
 /* Contact section */
 .contact-body .content {
     float: left;
-    line-height: 30px;
+    line-height: 1.6;
     list-style: none;
     font-size: 18px;
-    margin-bottom: 100px;
 }
 .contact-body .content .icon-content {
     padding-right: 10px;
@@ -409,6 +408,7 @@ html {
     font-size: 15px;
     color: #fff;
     cursor: pointer;
+    margin-bottom: 100px;
 }
 .send-btn:hover {
     color: #000;

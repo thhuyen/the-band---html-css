@@ -1,5 +1,25 @@
+/* Tablet */
+@media (max-width: 1023px) {
+   #nav .subnav a {
+    padding: 5px 12px;
+   }
+   .place-buy-btn {
+    padding: 15px 16px;
+   }
+   .contact-body .content {
+    line-height: 2;
+   }
+   #footer .social .icon-social {
+      font-size: 45px;
+      margin: 0 8px;
+   }
+}
+/* Mobile */
 @media (max-width: 740px)
 {
+   .s-full-width {
+      width: 100% !important;
+   }
    #header {
     overflow: hidden;
    }
@@ -45,5 +65,14 @@
    .contact-body .content,
    .contact-body .form {
       float: none;
+   }
+   .contact-body .form {
+      margin-top: 20px;
+   }
+   .form-name, .form-email {
+      width: 100%;
+   }
+   .form-name {
+      margin-bottom: 10px;
    }
 }
