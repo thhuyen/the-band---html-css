@@ -1,7 +1,6 @@
 # Website "The band" 
 
-This is the first website interface project made by HTML, CSS and a little Javascript. It was referenced from the w3school template. 
-The website is compatible with both mobile browser and computer browser.
+This is the first website interface project made by HTML, CSS and a little Javascript. It was referenced from the w3school template.                                                                                                                                                                                                            The website is compatible with both mobile browser and computer browser.
 
 There are some images of the website
 
